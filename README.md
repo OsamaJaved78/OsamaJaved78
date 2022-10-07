@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OsamaJaved78
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React js.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Development.
+- 🌱 Full Stack Developer.
 - 📫 How to reach me osamajaved78@gmail.com
 
 <!---
