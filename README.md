@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OsamaJaved78
 - 👀 I’m interested in Development.
-- 🌱 Full Stack Developer.
+- 🌱 Currelntly I'm a Full Stack Developer.
 - 📫 How to reach me osamajaved78@gmail.com
 
 <!---
